@@ -1,0 +1,165 @@
+- generic [ref=f1e1]:
+  - banner [ref=f1e2]:
+    - generic [ref=f1e3]:
+      - link "BoloUp App Official" [ref=f1e4] [cursor=pointer]:
+        - /url: /
+        - img "BoloUp Official Logo" [ref=f1e5]
+      - navigation "Main Navigation" [ref=f1e6]:
+        - link "Home" [ref=f1e7] [cursor=pointer]:
+          - /url: /
+        - link "Host" [ref=f1e8] [cursor=pointer]:
+          - /url: /host
+        - link "Agency" [ref=f1e9] [cursor=pointer]:
+          - /url: /agency
+        - link "Contact" [ref=f1e10] [cursor=pointer]:
+          - /url: /contact
+        - generic [ref=f1e215]:
+          - link "Download App" [ref=f1e216] [cursor=pointer]:
+            - /url: https://share.bololinks.com/home/scode/47282
+          - link "Become a Host" [ref=f1e217] [cursor=pointer]:
+            - /url: "#registration"
+      - button "Toggle Navigation Menu" [expanded] [active] [ref=f1e218] [cursor=pointer]: ✕
+  - main [ref=f1e14]:
+    - generic [ref=f1e17]:
+      - generic [ref=f1e18]:
+        - generic [ref=f1e19]: BoloUp Live Host
+        - heading "Go Live and Grow as a BoloUp App Host" [level=1] [ref=f1e21]
+        - paragraph [ref=f1e23]: Turn your personality and conversations into engaging experiences. As a BoloUp App Host, you can meet new people, build your audience, receive gifts, and grow your presence and then earn on BoloUp.
+        - link "Become a BoloUp Host" [ref=f1e25] [cursor=pointer]:
+          - /url: "#registration"
+      - img "Go Live and Grow as a BoloUp App Host" [ref=f1e28]
+    - generic [ref=f1e31]:
+      - heading "Meet BoloUp and Start Your Host Journey" [level=2] [ref=f1e32]
+      - paragraph [ref=f1e33]: BoloUp is a social entertainment app built around live video, voice rooms, chat, and real-time interaction. It gives users a place to join conversations, and connect with people from different places.
+      - paragraph [ref=f1e34]: A BoloUp App Host takes a more active role by creating live content and interacting with viewers. Whether your style is casual conversation, entertainment, music, or simply sharing your personality, BoloUp gives you a space to build your own community and earning.
+      - link "Learn more about Agency" [ref=f1e36] [cursor=pointer]:
+        - /url: /agency
+    - generic [ref=f1e38]:
+      - heading "Why Become a BoloUp App Host?" [level=2] [ref=f1e40]
+      - generic [ref=f1e41]:
+        - generic [ref=f1e42]:
+          - heading "Build Your Own Audience" [level=3] [ref=f1e49]
+          - paragraph [ref=f1e50]: Meet viewers through live streaming, create genuine interactions, and turn regular visitors into a community.
+        - generic [ref=f1e51]:
+          - heading "Earn While You Go Live" [level=3] [ref=f1e55]
+          - paragraph [ref=f1e56]: Viewers can support hosts with virtual gifts during live sessions, giving active hosts an opportunity to earn.
+        - generic [ref=f1e57]:
+          - heading "Express Yourself Your Way" [level=3] [ref=f1e62]
+          - paragraph [ref=f1e63]: Bring your own personality to every stream. Talk, entertain, share your interests.
+    - generic [ref=f1e65]:
+      - heading "How Can a BoloUp Host Earn?" [level=2] [ref=f1e67]
+      - generic [ref=f1e68]:
+        - generic [ref=f1e69]:
+          - heading "Gifts from Viewers" [level=3] [ref=f1e76]
+          - paragraph [ref=f1e77]: During live sessions, viewers can send virtual gifts to show their support. Eligible host earnings from activity on BoloUp can be managed through the account’s Diamonds section.
+        - generic [ref=f1e78]:
+          - heading "Host Rewards and Program Opportunities" [level=3] [ref=f1e84]
+          - paragraph [ref=f1e85]: Hosts may also have access to additional rewards, activities, or incentives depending on current BoloUp and agency program rules. Availability and requirements may vary over time.
+    - generic [ref=f1e87]:
+      - heading "How to Register as a BoloUp App Host" [level=2] [ref=f1e89]
+      - generic [ref=f1e90]:
+        - generic [ref=f1e91]:
+          - generic [ref=f1e93] [cursor=pointer]:
+            - img "Download and Register - BoloUp Host Guide Step 1" [ref=f1e94]
+            - generic "Zoom image" [ref=f1e95]
+          - generic [ref=f1e99]:
+            - generic [ref=f1e100]: "1"
+            - 'heading "Step 1: Download and Register" [level=3] [ref=f1e101]'
+            - paragraph [ref=f1e102]: Download the BoloUp app and create your account using one of the available sign-up methods.
+        - generic [ref=f1e103]:
+          - generic [ref=f1e105] [cursor=pointer]:
+            - img "Open Your Profile - BoloUp Host Guide Step 2" [ref=f1e106]
+            - generic "Zoom image" [ref=f1e107]
+          - generic [ref=f1e111]:
+            - generic [ref=f1e112]: "2"
+            - 'heading "Step 2: Open Your Profile" [level=3] [ref=f1e113]'
+            - paragraph [ref=f1e114]: Go to your profile and find the Become Host section. Tap Join to begin your host application.
+        - generic [ref=f1e115]:
+          - generic [ref=f1e117] [cursor=pointer]:
+            - img "Enter Your Agency ID - BoloUp Host Guide Step 3" [ref=f1e118]
+            - generic "Zoom image" [ref=f1e119]
+          - generic [ref=f1e123]:
+            - generic [ref=f1e124]: "3"
+            - 'heading "Step 3: Enter Your Agency ID" [level=3] [ref=f1e125]'
+            - paragraph [ref=f1e126]: Open the Join Agency form and enter the Agency ID provided by the agency you want to join (2527626) . Check the agency information before submitting
+        - generic [ref=f1e127]:
+          - generic [ref=f1e129] [cursor=pointer]:
+            - img "Complete Face Verification - BoloUp Host Guide Step 4" [ref=f1e130]
+            - generic "Zoom image" [ref=f1e131]
+          - generic [ref=f1e135]:
+            - generic [ref=f1e136]: "4"
+            - 'heading "Step 4: Complete Face Verification" [level=3] [ref=f1e137]'
+            - paragraph [ref=f1e138]: Go to the Authentication Center in your profile and follow the on-screen instructions to complete face verification.
+        - generic [ref=f1e140]:
+          - generic [ref=f1e141]: "5"
+          - 'heading "Step 5: Start Your Host Journey" [level=3] [ref=f1e142]'
+          - paragraph [ref=f1e143]: Once your host application and verification are approved, you can begin using your BoloUp Host account and start building your live audience.
+    - generic [ref=f1e145]:
+      - heading "Frequently Asked Questions" [level=2] [ref=f1e147]
+      - generic [ref=f1e148]:
+        - generic [ref=f1e149]:
+          - button "What does a BoloUp App Host do?" [expanded] [ref=f1e150] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f1e152]: +
+          - generic [ref=f1e214]: A BoloUp App Host creates live content and interacts with viewers in real time. Hosts can chat, entertain, share their interests, build an audience, and receive virtual gifts during their live sessions.
+        - generic [ref=f1e154]:
+          - button "Do I need to join an agency to become a BoloUp Host?" [ref=f1e155] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f1e157]: +
+          - generic: The current host-registration process includes entering an Agency ID when joining as a host. An agency can also provide support and guidance as you get started on the platform.
+        - generic [ref=f1e159]:
+          - button "How does a BoloUp Host earn money?" [ref=f1e160] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f1e162]: +
+          - generic: Hosts can receive virtual gifts from viewers during live sessions. Eligible earnings and any additional host rewards depend on current BoloUp and agency program requirements.
+    - generic [ref=f1e166]:
+      - heading "Ready to Start Going Live on BoloUp?" [level=2] [ref=f1e167]
+      - link "Join as a BoloUp Host" [ref=f1e169] [cursor=pointer]:
+        - /url: "#registration"
+  - contentinfo [ref=f1e170]:
+    - generic [ref=f1e171]:
+      - generic [ref=f1e172]:
+        - generic [ref=f1e173]:
+          - link "BoloUp Home" [ref=f1e174] [cursor=pointer]:
+            - /url: /
+            - img "BoloUp Official Logo" [ref=f1e175]
+          - paragraph [ref=f1e176]: BoloUp is a social entertainment app built around live video, voice rooms, chat, and real-time interaction. Discover creators, meet new people, or start your journey as a host or agency partner.
+        - generic [ref=f1e177]:
+          - heading "Navigation" [level=3] [ref=f1e178]
+          - list [ref=f1e179]:
+            - listitem [ref=f1e180]:
+              - link "Home" [ref=f1e181] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=f1e182]:
+              - link "Host" [ref=f1e183] [cursor=pointer]:
+                - /url: /host
+            - listitem [ref=f1e184]:
+              - link "Agency" [ref=f1e185] [cursor=pointer]:
+                - /url: /agency
+            - listitem [ref=f1e186]:
+              - link "Contact" [ref=f1e187] [cursor=pointer]:
+                - /url: /contact
+        - generic [ref=f1e188]:
+          - heading "Host & Agency" [level=3] [ref=f1e189]
+          - list [ref=f1e190]:
+            - listitem [ref=f1e191]:
+              - link "BoloUp Host" [ref=f1e192] [cursor=pointer]:
+                - /url: "#hero"
+            - listitem [ref=f1e193]:
+              - link "Host Registration" [ref=f1e194] [cursor=pointer]:
+                - /url: "#registration"
+            - listitem [ref=f1e195]:
+              - link "Host FAQs" [ref=f1e196] [cursor=pointer]:
+                - /url: "#faqs"
+            - listitem [ref=f1e197]:
+              - link "Agency Program" [ref=f1e198] [cursor=pointer]:
+                - /url: /agency
+        - generic [ref=f1e199]:
+          - heading "BoloUp App" [level=3] [ref=f1e200]
+          - list [ref=f1e201]:
+            - listitem [ref=f1e202]:
+              - link "Download BoloUp App" [ref=f1e203] [cursor=pointer]:
+                - /url: https://share.bololinks.com/home/scode/47282
+            - listitem [ref=f1e204]:
+              - link "Support & Assistance" [ref=f1e205] [cursor=pointer]:
+                - /url: /contact
+      - generic [ref=f1e206]:
+        - generic [ref=f1e207]: © 2026 BoloUp App (bolouplive). All rights reserved.
+        - generic [ref=f1e208]: Live, Connect & Enjoy Social Entertainment

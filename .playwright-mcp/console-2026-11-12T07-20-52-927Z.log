@@ -1,0 +1,6 @@
+[     152ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://bolouplive.com/1c86y6aypsqcbgpgxvhw0-fow_zml13r66c_jfigjdfk:1
+[     283ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://bolouplive.com/favicon.ico:1
+[    3610ms] [LOG] JQMIGRATE: Migrate is installed, version 3.4.1 @ https://bolouplive.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1:2
+[   70694ms] [LOG] Simba TFA: form submit request @ https://bolouplive.com/wp-content/plugins/all-in-one-wp-security-and-firewall/includes/simba-tfa/includes/tfa.js?ver=1793396957:324
+[   70695ms] [LOG] Simba TFA: User does not have OTP enabled: submitting form @ https://bolouplive.com/wp-content/plugins/all-in-one-wp-security-and-firewall/includes/simba-tfa/includes/tfa.js?ver=1793396957:38
+[   71120ms] [LOG] JQMIGRATE: Migrate is installed, version 3.4.1 @ https://bolouplive.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1:2

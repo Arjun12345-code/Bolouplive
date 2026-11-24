@@ -1,0 +1,56 @@
+[
+  {
+    "name": "wordpress_test_cookie",
+    "value": "WP%20Cookie%20check",
+    "domain": "bolouplive.com",
+    "path": "/",
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_lscache_vary",
+    "value": "fde7deee774c8b4de95957f14b6a7cf6",
+    "domain": "bolouplive.com",
+    "path": "/",
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "wordpress_logged_in_2678666ed39a368abb74b46bccbc040c",
+    "value": "irza%7C1795678007%7CRFI56KFxloZtVqiYvgO8geCRwTRTgxbRaqaAO4Jjwjw%7C7f08dded7f4753c0ea6abc849780764c85f6edf86bd9703d63b7ac1a43e5397a",
+    "domain": "bolouplive.com",
+    "path": "/",
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "wp_lang",
+    "value": "en_GB",
+    "domain": "bolouplive.com",
+    "path": "/",
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "wordpress_sec_2678666ed39a368abb74b46bccbc040c",
+    "value": "irza%7C1795678007%7CRFI56KFxloZtVqiYvgO8geCRwTRTgxbRaqaAO4Jjwjw%7Ca3ebaa7b7b7190776077a7ed89e062f2c411d98a1cba0f15cf2e077c3cf38b30",
+    "domain": "bolouplive.com",
+    "path": "/wp-content/plugins",
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "wordpress_sec_2678666ed39a368abb74b46bccbc040c",
+    "value": "irza%7C1795678007%7CRFI56KFxloZtVqiYvgO8geCRwTRTgxbRaqaAO4Jjwjw%7Ca3ebaa7b7b7190776077a7ed89e062f2c411d98a1cba0f15cf2e077c3cf38b30",
+    "domain": "bolouplive.com",
+    "path": "/wp-admin",
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  }
+]

@@ -1,0 +1,152 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e4]:
+    - generic [ref=e5]:
+      - generic [ref=e6]: BoloUp Social Entertainment
+      - heading "Meet, Go Live, and Grow with the BoloUp App" [level=1] [ref=e8]
+      - paragraph [ref=e10]: BoloUp is a live social entertainment app for real-time video, voice rooms, chat, and interactive communities. Discover creators, meet new people, or take your next step as a host or agent, all from one app.
+      - generic [ref=e11]:
+        - link "Download the BoloUp App" [ref=e12] [cursor=pointer]:
+          - /url: https://share.bololinks.com/home/scode/47282
+        - link "Become a Host" [ref=e13] [cursor=pointer]:
+          - /url: /host
+      - generic [ref=e14]:
+        - generic [ref=e15]: Live Video Streaming
+        - generic [ref=e21]: Voice Party Rooms
+        - generic [ref=e27]: Real-Time Interaction
+    - generic [ref=e33]:
+      - generic [ref=e34]:
+        - generic [ref=e36]: LIVE
+        - generic [ref=e37]: Social Party Online
+      - generic [ref=e38]:
+        - generic [ref=e39]: 💎
+        - generic [ref=e40]:
+          - generic [ref=e41]: Community
+          - generic [ref=e42]: Gifts & Diamonds Sent
+      - generic [ref=e43]:
+        - generic [ref=e44]: 🎙️
+        - generic [ref=e45]:
+          - generic [ref=e46]: Voice Rooms
+          - generic [ref=e47]: Multi-User Audio Chats
+      - generic [ref=e49]:
+        - generic [ref=e50]:
+          - generic [ref=e55]:
+            - generic [ref=e56]: BoloUp Global
+            - generic [ref=e57]: Interactive Live Entertainment
+          - generic [ref=e58]: ACTIVE
+        - generic [ref=e70]:
+          - generic [ref=e71]:
+            - generic [ref=e72]: CreatorHub
+            - generic [ref=e73]: Welcome to BoloUp Live! 🚀
+          - generic [ref=e74]:
+            - generic [ref=e75]: GlobalChat
+            - generic [ref=e76]: Join voice rooms & meet new friends ✨
+          - generic [ref=e77]:
+            - generic [ref=e78]: Join As Host
+            - generic [ref=e79]: "Official Agency ID: 2527626"
+  - generic [ref=e82]:
+    - generic [ref=e83]: About BoloUp
+    - heading "What is the BoloUp app?" [level=2] [ref=e84]
+    - paragraph [ref=e85]: The BoloUp app brings live video, voice rooms, chat, virtual gifts, and interactive entertainment into one place. Join conversations, follow creators, share your own live moments, or explore opportunities to grow as a host or agent.
+  - generic [ref=e87]:
+    - generic [ref=e88]:
+      - generic [ref=e89]: Opportunities
+      - 'heading "Host or Agent: Choose the Role That Fits You" [level=2] [ref=e90]'
+    - generic [ref=e91]:
+      - generic [ref=e92]:
+        - generic [ref=e93]: Creator Path
+        - heading "BoloUp Host" [level=3] [ref=e94]
+        - paragraph [ref=e95]: Go live, entertain viewers, and turn your personality into earnings with virtual gifts and official agency support.
+        - link "Become a Host" [ref=e97] [cursor=pointer]:
+          - /url: /host
+      - generic [ref=e98]:
+        - generic [ref=e99]: Leadership Path
+        - heading "BoloUp Agent" [level=3] [ref=e100]
+        - paragraph [ref=e101]: Build and manage your own creator agency, recruit promising hosts, and grow with dedicated agency commissions.
+        - link "Become an Agent" [ref=e103] [cursor=pointer]:
+          - /url: /agency
+    - table [ref=e106]:
+      - rowgroup [ref=e107]:
+        - row [ref=e108]:
+          - columnheader "Category" [ref=e109]
+          - columnheader "BoloUp Host" [ref=e110]
+          - columnheader "BoloUp Agent" [ref=e111]
+      - rowgroup [ref=e112]:
+        - row [ref=e113]:
+          - cell [ref=e114]:
+            - strong [ref=e115]: Main focus
+          - cell "Go live and engage viewers in real time." [ref=e116]
+          - cell "Build, guide, and support a team of hosts." [ref=e117]
+        - row [ref=e118]:
+          - cell [ref=e119]:
+            - strong [ref=e120]: Best for
+          - cell "People who enjoy creating, performing, chatting, or sharing live content." [ref=e121]
+          - cell "People who enjoy recruiting, coaching, organizing, and growing a team." [ref=e122]
+        - row [ref=e123]:
+          - cell [ref=e124]:
+            - strong [ref=e125]: How you participate
+          - cell "Create live content, connect with viewers, and receive virtual gifts through the platform." [ref=e126]
+          - cell "Invite and manage hosts, support their activity, and access agency commission opportunities." [ref=e127]
+  - generic [ref=e129]:
+    - generic [ref=e130]:
+      - generic [ref=e131]: Features
+      - heading "More Ways to Connect on BoloUp" [level=2] [ref=e132]
+    - generic [ref=e133]:
+      - generic [ref=e134]:
+        - heading "Live interaction" [level=3] [ref=e139]
+        - paragraph [ref=e140]: Watch live streams, join voice rooms, and chat with people in real time.
+      - generic [ref=e141]:
+        - heading "Creator opportunities" [level=3] [ref=e145]
+        - paragraph [ref=e146]: Share your personality, talent, or conversations as a BoloUp host and build an audience around your live content.
+      - generic [ref=e147]:
+        - heading "Team growth" [level=3] [ref=e154]
+        - paragraph [ref=e155]: Explore the agent path to recruit, support, and manage hosts using BoloUp agency tools.
+  - generic [ref=e157]:
+    - generic [ref=e158]:
+      - generic [ref=e159]: Quick Start
+      - heading "Getting Started with the BoloUp App" [level=2] [ref=e160]
+    - generic [ref=e161]:
+      - generic [ref=e162]:
+        - generic [ref=e163]: "01"
+        - heading "Download and Register" [level=3] [ref=e164]
+        - paragraph [ref=e165]: Download BoloUp and create your account using your preferred sign-up method.
+      - generic [ref=e166]:
+        - generic [ref=e167]: "02"
+        - heading "Explore Social Rooms" [level=3] [ref=e168]
+        - paragraph [ref=e169]: Discover live streams, voice rooms, meet creators, and connect in real time.
+      - generic [ref=e170]:
+        - generic [ref=e171]: "03"
+        - heading "Choose Your Path" [level=3] [ref=e172]
+        - paragraph [ref=e173]: Use BoloUp as a viewer, or continue your journey as a Host or Agency Agent.
+  - generic [ref=e175]:
+    - generic [ref=e176]:
+      - generic [ref=e177]: Got Questions?
+      - heading "Frequently Asked Questions" [level=2] [ref=e178]
+    - generic [ref=e179]:
+      - generic [ref=e180]:
+        - button "Q1 What is the BoloUp app?" [ref=e181] [cursor=pointer]:
+          - generic [ref=e182]:
+            - generic [ref=e183]: Q1
+            - generic [ref=e184]: What is the BoloUp app?
+          - generic [aria-hidden] [ref=e185]: +
+        - region "Q1 What is the BoloUp app?":
+          - paragraph [ref=e187]: BoloUp is a live social entertainment app where users can watch live video, join voice rooms, chat, discover creators, send virtual gifts, and connect with people in real time.
+      - generic [ref=e188]:
+        - button "Q2 What is the difference between a BoloUp Host and Agent?" [ref=e189] [cursor=pointer]:
+          - generic [ref=e190]:
+            - generic [ref=e191]: Q2
+            - generic [ref=e192]: What is the difference between a BoloUp Host and Agent?
+          - generic [aria-hidden] [ref=e193]: +
+        - region "Q2 What is the difference between a BoloUp Host and Agent?":
+          - paragraph [ref=e195]: A Host focuses on going live and engaging viewers. An Agent focuses on recruiting, guiding, and managing hosts through an agency. Dedicated Host and Agent pages provide more details for each role.
+      - generic [ref=e196]:
+        - button "Q3 How do I start using BoloUp?" [ref=e197] [cursor=pointer]:
+          - generic [ref=e198]:
+            - generic [ref=e199]: Q3
+            - generic [ref=e200]: How do I start using BoloUp?
+          - generic [aria-hidden] [ref=e201]: +
+        - region "Q3 How do I start using BoloUp?":
+          - paragraph [ref=e203]: Download the BoloUp app, create an account, and start exploring live rooms, voice chats, and creator opportunities.
+  - generic [ref=e207]:
+    - heading "Your BoloUp Experience Starts Here" [level=2] [ref=e208]
+    - link "Download the BoloUp App" [ref=e210] [cursor=pointer]:
+      - /url: https://share.bololinks.com/home/scode/47282
